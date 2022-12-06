@@ -27,4 +27,5 @@ $(function () {
 	// 	$('audio')[0].play();
 	// });
 	// window.audio=$('audio')[0].play();
+  
 })
